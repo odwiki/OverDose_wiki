@@ -42,7 +42,7 @@ dateCreated: 2024-01-27T15:58:43.702Z
   
 最后，应该说： **你本不需要od** 
   
-推荐下一步去阅读的条目：[Overdose引论](/zh/Overdose引论)
+推荐下一步去阅读的条目：[Overdose引论](/zh/Overdose引论.md)
 
 
 
