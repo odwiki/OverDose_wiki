@@ -15,7 +15,9 @@ dateCreated: 2024-02-10T19:56:29.622Z
 > **强烈提议拒绝滥用喹硫平！喹硫平没有任何的滥用意义，根本没有良好的滥用价值，只会降低其它物质的效果，增加其他物质的危险性。任何情况都不要联用喹硫平！**
 {.is-danger}
 
-（图片引用自）![quetiapine.png](/quetiapine.png){.align-right} ^[图源[PsychonautWiki](https://psychonautwiki.org/wiki/File:Quetiapine.svg)]
+（图片引用自）![quetiapine.png](/quetiapine.png)^
+
+[图源[PsychonautWiki](https://psychonautwiki.org/wiki/File:Quetiapine.svg)]
 **喹硫平(Quetiapine, QTP)** 是一种非典型抗精神病药，属于多种神经递质受体拮抗剂、全体兴奋递质抑制剂。一般以富马酸盐，即**富马酸喹硫平**。化学上是二苯并噻氮卓类衍生物。**无法滥用**
 
 ## 药理作用
