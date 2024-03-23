@@ -1,3 +1,13 @@
+---
+title: Overdose引论
+description: 开始的一切
+published: true
+date: 2024-03-16T11:24:53.218Z
+tags: 
+editor: markdown
+dateCreated: 2024-01-29T09:51:23.989Z
+---
+
 > 此文章内容极度不全，框架极度散架。还请帮助笔者██“*************”，让此文章更好！
 {.is-info}
 
